@@ -1,4 +1,4 @@
-#calculate the g and c in a dna seq in fatsa formsat
+#calculate the g and c content in a dna seq in fatsa formsat
 
 def file_reader(file):	
 	with open(file,'r') as f:
